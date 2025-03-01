@@ -1,1 +1,2 @@
-this is a new code
+This is code
+another piece of code
